@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65d1e57e-48bc-4839-9cd7-ae30655d6370" name="Changes" comment="finishes">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maayanas17&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maayanas17/Ex2.git&quot;,
+    &quot;accountId&quot;: &quot;4ceb6fbb-cdc4-4b0e-b3cf-4a880f544dce&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qz9rK5dJKD3UahLZFld2G9gsoT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex2GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StdDrawEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CellEntryTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testDependencies.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testDepth.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testEvalFormula.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testEvalSimpleValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testGetByCoordinates.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testGetByStringReference.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Ex2SheetTest.testSetAndGet.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testBasic.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testComputeFormOnlyDigit.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testDeterminationType.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testIndexMainOperator.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testIsForm.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SCellTest.testIsText.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashua/IdeaProjects/Ex2/src/assignments/ex2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ashua/IdeaProjects/Ex2/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ashua\IdeaProjects\Ex2\src\assignments\ex2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ashua\IdeaProjects\Ex2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex2GUI">
+    <configuration name="Ex2GUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2GUI" />
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2SheetTest.testDependencies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments.ex2" />
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2SheetTest" />
+      <option name="METHOD_NAME" value="testDependencies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2SheetTest.testDepth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments.ex2" />
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2SheetTest" />
+      <option name="METHOD_NAME" value="testDepth" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2SheetTest.testGetByCoordinates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments.ex2" />
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2SheetTest" />
+      <option name="METHOD_NAME" value="testGetByCoordinates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2SheetTest.testGetByStringReference" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments.ex2" />
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2SheetTest" />
+      <option name="METHOD_NAME" value="testGetByStringReference" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2SheetTest.testSetAndGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ex2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignments.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignments.ex2" />
+      <option name="MAIN_CLASS_NAME" value="assignments.ex2.Ex2SheetTest" />
+      <option name="METHOD_NAME" value="testSetAndGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Ex2SheetTest.testDependencies" />
+        <item itemvalue="JUnit.Ex2SheetTest.testGetByStringReference" />
+        <item itemvalue="JUnit.Ex2SheetTest.testGetByCoordinates" />
+        <item itemvalue="JUnit.Ex2SheetTest.testSetAndGet" />
+        <item itemvalue="JUnit.Ex2SheetTest.testDepth" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65d1e57e-48bc-4839-9cd7-ae30655d6370" name="Changes" comment="" />
+      <created>1735654736356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735654736356</updated>
+    </task>
+    <task id="LOCAL‎-00001" summary="cell class">
+      <option name="closed" value="true" />
+      <created>1735655441762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735655441762</updated>
+    </task>
+    <task id="LOCAL‎-00002" summary="cell class remove">
+      <option name="closed" value="true" />
+      <created>1735659352727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735659352727</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="all files">
+      <option name="closed" value="true" />
+      <created>1735661172486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735661172486</updated>
+    </task>
+    <task id="LOCAL‎-00004" summary="Implementing some actions">
+      <option name="closed" value="true" />
+      <created>1735835685449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL‎-00004" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735835685449</updated>
+    </task>
+    <task id="LOCAL‎-00005" summary="Implementing some actions and tests">
+      <option name="closed" value="true" />
+      <created>1735857804657</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735857804657</updated>
+    </task>
+    <task id="LOCAL‎-00006" summary="Implementing CellEntry">
+      <option name="closed" value="true" />
+      <created>1735861281945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735861281945</updated>
+    </task>
+    <task id="LOCAL‎-00007" summary="Implementing CellEntry">
+      <option name="closed" value="true" />
+      <created>1735861456723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL‎-00007" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735861456723</updated>
+    </task>
+    <task id="LOCAL‎-00008" summary="Implementing CellEntry and tests">
+      <option name="closed" value="true" />
+      <created>1735864599399</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL‎-00008" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735864599399</updated>
+    </task>
+    <task id="LOCAL‎-00009" summary="Implementing Sheet">
+      <option name="closed" value="true" />
+      <created>1735872291051</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL‎-00009" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735872291051</updated>
+    </task>
+    <task id="LOCAL‎-00010" summary="Implementing CellEntry">
+      <option name="closed" value="true" />
+      <created>1735918824802</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL‎-00010" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735918824802</updated>
+    </task>
+    <task id="LOCAL‎-00011" summary="Implementing Ex2Sheet">
+      <option name="closed" value="true" />
+      <created>1735934729881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL‎-00011" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735934729881</updated>
+    </task>
+    <task id="LOCAL‎-00012" summary="Implementing Ex2Sheet">
+      <option name="closed" value="true" />
+      <created>1735934968848</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL‎-00012" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735934968848</updated>
+    </task>
+    <task id="LOCAL‎-00013" summary="Implementing Ex2Sheet">
+      <option name="closed" value="true" />
+      <created>1735937915227</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL‎-00013" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735937915227</updated>
+    </task>
+    <task id="LOCAL‎-00014" summary="Implementing SCell">
+      <option name="closed" value="true" />
+      <created>1735954054627</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL‎-00014" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1735954054627</updated>
+    </task>
+    <task id="LOCAL‎-00015" summary="Implementing SCell">
+      <option name="closed" value="true" />
+      <created>1736021173623</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL‎-00015" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736021173623</updated>
+    </task>
+    <task id="LOCAL‎-00016" summary="Implementing Sheet">
+      <option name="closed" value="true" />
+      <created>1736021216905</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL‎-00016" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736021216905</updated>
+    </task>
+    <task id="LOCAL‎-00017" summary="Implementing">
+      <option name="closed" value="true" />
+      <created>1736036800875</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL‎-00017" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736036800875</updated>
+    </task>
+    <task id="LOCAL‎-00018" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736099629549</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL‎-00018" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736099629549</updated>
+    </task>
+    <task id="LOCAL‎-00019" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736128722284</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL‎-00019" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736128722284</updated>
+    </task>
+    <task id="LOCAL‎-00020" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736129404027</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL‎-00020" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736129404027</updated>
+    </task>
+    <task id="LOCAL‎-00021" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736189450245</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL‎-00021" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736189450245</updated>
+    </task>
+    <task id="LOCAL‎-00022" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736190968181</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL‎-00022" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736190968181</updated>
+    </task>
+    <task id="LOCAL‎-00023" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736201784992</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL‎-00023" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736201784992</updated>
+    </task>
+    <task id="LOCAL‎-00024" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736289831232</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL‎-00024" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736289831232</updated>
+    </task>
+    <task id="LOCAL‎-00025" summary="Change">
+      <option name="closed" value="true" />
+      <created>1736358059323</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL‎-00025" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736358059323</updated>
+    </task>
+    <task id="LOCAL‎-00026" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736359931543</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL‎-00026" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736359931543</updated>
+    </task>
+    <task id="LOCAL‎-00027" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736362845925</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL‎-00027" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736362845925</updated>
+    </task>
+    <task id="LOCAL‎-00028" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736363835745</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL‎-00028" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736363835745</updated>
+    </task>
+    <task id="LOCAL‎-00029" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736365358350</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL‎-00029" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736365358350</updated>
+    </task>
+    <task id="LOCAL‎-00030" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736376737351</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL‎-00030" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736376737351</updated>
+    </task>
+    <task id="LOCAL‎-00031" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736614420473</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL‎-00031" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736614420473</updated>
+    </task>
+    <task id="LOCAL‎-00032" summary="finishes">
+      <option name="closed" value="true" />
+      <created>1736800353853</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL‎-00032" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736800353853</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cell class" />
+    <MESSAGE value="cell class remove" />
+    <MESSAGE value="all files" />
+    <MESSAGE value="Implementing some actions" />
+    <MESSAGE value="Implementing some actions and tests" />
+    <MESSAGE value="Implementing CellEntry and tests" />
+    <MESSAGE value="Implementing CellEntry" />
+    <MESSAGE value="Implementing Ex2Sheet" />
+    <MESSAGE value="Implementing SCell" />
+    <MESSAGE value="Implementing Sheet" />
+    <MESSAGE value="Implementing" />
+    <MESSAGE value="Change" />
+    <MESSAGE value="finishes" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
